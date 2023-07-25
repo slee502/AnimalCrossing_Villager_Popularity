@@ -9,9 +9,17 @@ In this project, we'll be exploring various villager attributes and how these ch
 - Species
 - Gender
 - Personality
-- 
+- Hobbies
+- Requests (unique requests/desires expressed by each villager in the game) 
+- Song (song associated with the character)
 
 ## Data Sources
+CSVs:
+- [Kaggle Animal Crossing Portal Villager Popularity acnh_villager_data.csv](https://www.kaggle.com/datasets/ampiiere/acnh-villager-popularity)
+- [Kaggle New Horizons Catalog | Animal Crossing Paradise Planning.csv](https://www.kaggle.com/datasets/whenamancodes/new-horizons-catalog-animal-horizon)
+
+API:
+- [ACNH API](https://acnhapi.com/)
 
 ## Installation
 
