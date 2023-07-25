@@ -28,9 +28,9 @@ Follow these steps to run the project on your local machine:
 
    You can clone this repository by running the following command in your terminal:
 
-```
-git clone my repository url
-```
+   ```
+   git clone my repository url
+   ```
   
 3. **Navigate to the cloned directory**
 
