@@ -26,16 +26,18 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the repository**
 
-   You can clone this repository by running the following command in your terminal:
-   ```git clone my repository url```
+You can clone this repository by running the following command in your terminal:
+
+```git clone my repository url```
   
-2. **Navigate to the cloned directory**
+3. **Navigate to the cloned directory**
 
-   Change your current directory to the cloned repository's directory AnimalCrossing_Villager_Popularity
+Change your current directory to the cloned repository's directory AnimalCrossing_Villager_Popularity
 
-3. **Set up a virtual environment**
+4. **Set up a virtual environment**
 
-  It's recommended to create a virtual environment to keep the project's dependencies isolated from your system's Python environment. You can create a virtual environment using the following command:
+It's recommended to create a virtual environment to keep the project's dependencies isolated from your system's Python environment. You can create a virtual environment using the following command:
+
 ```python3 -m venv venv```
 
 This will create a new virtual environment named `venv` in your current directory.
@@ -44,24 +46,25 @@ This will create a new virtual environment named `venv` in your current director
 
 Activate the virtual environment using the following command:
 
-- On macOS and Linux:
+On macOS and Linux:
 
-  ```
-  source venv/bin/activate
-  ```
+```
+source venv/bin/activate
+```
 
-- On Windows:
+On Windows:
 
-  ```
-  .\venv\Scripts\activate
-  ```
+```
+.\venv\Scripts\activate
+```
 
 Your prompt should change to indicate that you are now operating within a Python virtual environment. 
 
 5. **Install the required packages**
 
 Install the required packages by running the following command:
-pip install -r requirements.txt
+
+```pip install -r requirements.txt```
 
 You're now ready to run the project!
 
