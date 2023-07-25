@@ -26,49 +26,63 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the repository**
 
-You can clone this repository by running the following command in your terminal:
+   You can clone this repository by running the following command in your terminal:
 
-```git clone my repository url```
+```
+git clone my repository url
+```
   
 3. **Navigate to the cloned directory**
 
-Change your current directory to the cloned repository's directory AnimalCrossing_Villager_Popularity
+   Change your current directory to the cloned repository's directory AnimalCrossing_Villager_Popularity
 
 4. **Set up a virtual environment**
 
-It's recommended to create a virtual environment to keep the project's dependencies isolated from your system's Python environment. You can create a virtual environment using the following command:
+   It's recommended to create a virtual environment to keep the project's dependencies isolated from your system's Python environment.       You can create a virtual environment using the following command:
 
-```python3 -m venv venv```
+   On Windows:
 
-This will create a new virtual environment named `venv` in your current directory.
+   ```
+   python -m venv venv
+   ```
+
+   On macOS and Linux:
+
+   ```
+   python3 -m venv venv
+   ```
+
+   This will create a new virtual environment named `venv` in your current directory.
 
 4. **Activate the virtual environment**
 
-Activate the virtual environment using the following command:
+   Activate the virtual environment using the following command:
 
-On macOS and Linux:
+   On Windows:
 
-```
-source venv/bin/activate
-```
+   ```
+   .\venv\Scripts\activate
+   ```
 
-On Windows:
+   On macOS and Linux:
 
-```
-.\venv\Scripts\activate
-```
+   ```
+   source venv/bin/activate
+   ```
 
-Your prompt should change to indicate that you are now operating within a Python virtual environment. 
+   Your prompt should change to indicate that you are now operating within a Python virtual environment. 
 
 5. **Install the required packages**
 
-Install the required packages by running the following command:
+   Install the required packages by running the following command:
 
-```pip install -r requirements.txt```
+   ```
+   pip install -r requirements.txt
+   ```
 
-You're now ready to run the project!
+   You're now ready to run the project!
 
-To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
+   To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
 
 ## Visualizations
 
