@@ -6,8 +6,10 @@ Welcome to my project! The aim of this analysis is to delve into the world of An
 
 In this project, we'll be exploring various villager attributes and how these characteristics correlate with their popularity. Here are the attributes we will be looking at:
 
-
-Whether you're an avid player of Animal Crossing, a data enthusiast, or both, we hope you find this analysis insightful and engaging. Let's dive in!
+- Species
+- Gender
+- Personality
+- 
 
 ## Data Sources
 
