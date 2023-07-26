@@ -29,7 +29,7 @@ Follow these steps to run the project on your local machine:
    You can clone this repository by running the following command in your terminal:
 
    ```
-   git clone my repository url
+   git clone https://github.com/slee502/AnimalCrossing_Villager_Popularity.git
    ```
   
 3. **Navigate to the cloned directory**
@@ -82,7 +82,11 @@ Follow these steps to run the project on your local machine:
 
    You're now ready to run the project!
 
-   To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
+6. **Run the ```Villager_Popularity_Analysis.ipynb``` file:
+    - If you have Jupyter Notebook installed, enter ```jupyter notebook``` and open the `.ipynb` file.
+    - If you are using Visual Studio Code, open the `.ipynb` file and run the cells using the run button that appears at the top left of each cell.
+
+To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
 
 ## Visualizations
 
