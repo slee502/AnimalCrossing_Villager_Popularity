@@ -88,8 +88,6 @@ Follow these steps to run the project on your local machine:
 
 To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
 
-## Visualizations
-
 ## Summary of Findings
 ### Species
 The species of a villager appears to have a significant impact on their popularity. The Octopus species stands out as the most popular, with the highest average popularity ranking and the highest proportion of villagers in the top tier. The Deer, Wolf, Cat, and Koala species also tend to be more popular, with high average popularity rankings.
@@ -142,7 +140,7 @@ The song preferences of villagers appear to correlate with their popularity. Vil
 - Read TWO data files (CSV).
 - Read data set in with an API.
 
-***Category 2: Clean and Operate the Data While Combining Them:**
+**Category 2: Clean and Operate the Data While Combining Them:**
 - Clean your data and perform a pandas merge with your data sets, then calculate some new values based on the new data set.
 
 **Category 3: Visualize/Present Your Data:**
