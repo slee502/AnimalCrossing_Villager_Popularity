@@ -22,11 +22,18 @@ API:
 - [ACNH API](https://acnhapi.com/)
 
 ## Installation
+Before you begin, ensure you have met the following requirements:
+
+- You have installed Python. This project was developed using Python 3.11.1. If you don't have Python installed or if you need to upgrade your current version, you can download it from the [official Python website](https://www.python.org/downloads/).
+- You have installed Git, which is necessary to clone the repository. If you don't have Git installed, you can download it from the [official Git website](https://git-scm.com/downloads).
+
 Follow these steps to run the project on your local machine:
 
 1. **Clone the repository**
 
-   You can clone this repository by running the following command in your terminal:
+   Navigate to the directory where you want the cloned repository to be placed by using the ```cd``` command in your terminal followed      by the path of the directory.
+   
+   Then you can clone this repository by running the following command in your terminal:
 
    ```
    git clone https://github.com/slee502/AnimalCrossing_Villager_Popularity.git
@@ -142,6 +149,7 @@ The song preferences of villagers appear to correlate with their popularity. Vil
 
 **Category 2: Clean and Operate the Data While Combining Them:**
 - Clean your data and perform a pandas merge with your data sets, then calculate some new values based on the new data set.
+- Basic natural language processing to get the most common words.
 
 **Category 3: Visualize/Present Your Data:**
 - Make matplotlib or seaborn (or another plotting library) visualizations to display your data.
