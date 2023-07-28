@@ -95,6 +95,9 @@ Follow these steps to run the project on your local machine:
 
 To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
 
+## Visualizations
+Visualizations of the findings can be viewed on my [Tableau Public workbook](https://public.tableau.com/views/AnimalCrossingVillagerPopularity/Hobbies?:language=en-US&:display_count=n&:origin=viz_share_link).
+
 ## Summary of Findings
 ### Species
 The species of a villager appears to have a significant impact on their popularity. The Octopus species stands out as the most popular, with the highest average popularity ranking and the highest proportion of villagers in the top tier. The Deer, Wolf, Cat, and Koala species also tend to be more popular, with high average popularity rankings.
@@ -153,7 +156,8 @@ The song preferences of villagers appear to correlate with their popularity. Vil
 
 **Category 3: Visualize/Present Your Data:**
 - Make matplotlib or seaborn (or another plotting library) visualizations to display your data.
-
+- Make a Tableau dashboard to display your data.
+  
 **Category 4: Best Practices:**
 - Utilize a virtual environment and include instructions in your README on how the user should set one up.
 - List dependencies in a requirement.txt file.
