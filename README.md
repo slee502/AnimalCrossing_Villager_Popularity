@@ -89,7 +89,7 @@ Follow these steps to run the project on your local machine:
 
    You're now ready to run the project!
 
-6. **Run the ```Villager_Popularity_Analysis.ipynb``` file:
+6. **Run the ```Villager_Popularity_Analysis.ipynb``` file:**
     - If you have Jupyter Notebook installed, enter ```jupyter notebook``` and open the `.ipynb` file.
     - If you are using Visual Studio Code, open the `.ipynb` file and run the cells using the run button that appears at the top left of each cell.
 
