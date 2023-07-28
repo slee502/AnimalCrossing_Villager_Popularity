@@ -31,7 +31,7 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the repository**
 
-   Navigate to the directory where you want the cloned repository to be placed by using the ```cd``` command in your terminal followed      by the path of the directory.
+   Navigate to the directory where you want the cloned repository to be placed by using the ```cd``` command in your terminal followed by the path of the directory.
    
    Then you can clone this repository by running the following command in your terminal:
 
@@ -45,7 +45,7 @@ Follow these steps to run the project on your local machine:
 
 4. **Set up a virtual environment**
 
-   It's recommended to create a virtual environment to keep the project's dependencies isolated from your system's Python environment.       You can create a virtual environment using the following command:
+   It's recommended to create a virtual environment to keep the project's dependencies isolated from your system's Python environment. You can create a virtual environment using the following command:
 
    On Windows:
 
@@ -96,7 +96,7 @@ Follow these steps to run the project on your local machine:
 To deactivate the virtual environment when you're done, simply type `deactivate` in your terminal.
 
 ## Visualizations
-Visualizations of the findings can be viewed on my [Tableau Public workbook](https://public.tableau.com/views/AnimalCrossingVillagerPopularity/Hobbies?:language=en-US&:display_count=n&:origin=viz_share_link).
+Visualizations of the findings can be viewed on my [Tableau Public workbook](https://public.tableau.com/views/AnimalCrossingVillagerPopularity/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ## Summary of Findings
 ### Species
